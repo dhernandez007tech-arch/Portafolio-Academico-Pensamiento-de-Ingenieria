@@ -4,18 +4,36 @@ title: Inicio
 nav_order: 1
 ---
 
-<div style="text-align: center; padding: 35px 15px; background-color: #7A1735; color: white; border-radius: 12px;">
 
-<img src="{{ '/assets/img/Universidad-Iberoamericana-logo.png' | relative_url }}" alt="Universidad Iberoamericana" style="width: 240px; max-width: 80%; height: auto; margin-bottom: 20px;">
+<div class="portada">
 
-  <h1 style="color: white; border: none;">PORTAFOLIO ACADÉMICO (PENSAMIENTO DE INGENIERIA)</h1>
+  <img
+    src="{{ '/assets/img/Universidad-Iberoamericana-logo.png' | relative_url }}"
+    alt="Universidad Iberoamericana"
+    class="portada-logo"
+  >
 
-  <p style="font-size: 18px;">Universidad Iberoamericana</p>
+  <div class="portada-linea"></div>
 
-  <p>Ingeniería en Inteligencia Artificial</p>
+  <h1 class="portada-titulo">
+    PORTAFOLIO ACADÉMICO
+  </h1>
+
+  <h2 class="portada-subtitulo">
+    PENSAMIENTO DE INGENIERÍA
+  </h2>
+
+  <p class="portada-universidad">
+    UNIVERSIDAD IBEROAMERICANA
+  </p>
+
+  <div class="portada-separador"></div>
+
+  <p class="portada-carrera">
+    Licenciatura en Ingeniería en Inteligencia Artificial
+  </p>
 
 </div>
-
 ## Presentación
 
 **Dan Josue Hernandez Perez**
