@@ -45,21 +45,24 @@ body {
 
 /* Opciones del menú */
 .nav-list .nav-list-link {
-  display: inline-block;
-  width: auto;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
   padding: 8px 14px !important;
   border-radius: 6px;
   color: #ffffff !important;
-  transition: background-color 0.3s ease, color 0.3s ease;
+  transition: background 0.3s ease;
 }
 
-/* Efecto sutil al pasar el cursor */
+/* Efecto blanco transparente: solo la mitad de la barra */
 .nav-list .nav-list-link:hover {
-  background-color: rgba(255, 255, 255, 0.10) !important;
+  background: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0.14) 50%,
+    transparent 50%
+  ) !important;
   color: #ffffff !important;
-  width: 50%;
 }
-
 /* Pestaña actualmente seleccionada */
 .nav-list .nav-list-item.active > .nav-list-link {
   background: linear-gradient(90deg, #b00028, #e00034) !important;
