@@ -55,12 +55,13 @@ body {
 }
 
 /* Efecto blanco transparente: solo la mitad de la barra */
+/* Degradado blanco de derecha a izquierda */
 .nav-list .nav-list-link:hover {
   background: linear-gradient(
-    to right,
-    transparent 35%,
-    rgba(255, 255, 255, 0.12) 65%,
-    rgba(255, 255, 255, 0.32) 100%
+    to left,
+    rgba(255, 255, 255, 0.40) 0%,
+    rgba(255, 255, 255, 0.18) 55%,
+    transparent 100%
   ) !important;
   color: #ffffff !important;
 }
