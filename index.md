@@ -34,14 +34,14 @@ nav_order: 1
   </p>
 
 </div>
-**Dan Josué Hernández Pérez**  
-*Ingeniería en Inteligencia Artificial*
+### **Dan Josué Hernández Pérez**  
+### *Ingeniería en Inteligencia Artificial*
 
 Este portafolio está dedicado a la materia de Pensamiento de Ingeniería, donde iré recopilando las tareas, actividades y proyectos que vamos desarrollando a lo largo del curso.
 
 ## Contenido del portafolio
 
-### Tarea 7. Definición de problemas
+### 1. Tarea 7. Definición de problemas
 
 "Esta investigación fue desarrollada en equipo con Alin Rodríguez; en este apartado analizamos a fondo la problemática actual detrás de las recientes manifestaciones del IMSS, examinando sus causas y desmenuzando el conflicto."
 
@@ -53,4 +53,4 @@ En este apartado se incorporarán nuevas actividades y proyectos académicos.
 
 ---
 
-*Universidad Iberoamericana · Ingeniería en Inteligencia Artificial*
+*Universidad Iberoamericana - Ingeniería en Inteligencia Artificial*
