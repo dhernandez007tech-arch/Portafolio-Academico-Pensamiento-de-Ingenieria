@@ -34,17 +34,16 @@ nav_order: 1
   </p>
 
 </div>
-## Presentación
+**Dan Josué Hernández Pérez**  
+*Ingeniería en Inteligencia Artificial*
 
-**Dan Josue Hernandez Perez**
-
-Este espacio reúne las actividades, tareas y proyectos desarrollados durante la materia de Pensamiento de ingeniería.
+Este espacio es mi portafolio para la materia de Pensamiento de Ingeniería, donde iré recopilando las tareas, actividades y proyectos que vamos desarrollando a lo largo del curso.
 
 ## Contenido del portafolio
 
 ### Tarea 7. Definición de problemas
 
-En esta sección se presenta el análisis de una problemática relacionada con las manifestaciones recientes que ha organizado el IMSS.
+En este apartado nos dedicamos al análisis de la problemática actual detrás de las recientes manifestaciones organizadas por los trabajadores del IMSS, examinando sus causas y desmenuzando el problema.
 
 [Consultar la Tarea 7](tarea-7)
 
