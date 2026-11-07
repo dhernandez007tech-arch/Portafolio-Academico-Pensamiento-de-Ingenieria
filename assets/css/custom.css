@@ -61,7 +61,7 @@ body {
 
 /* Portada institucional */
 .portada {
-  background-color: #7A1735;
+  background-color: #E00034;
   color: #ffffff;
   text-align: center;
   padding: 55px 25px;
@@ -137,4 +137,12 @@ body {
   .portada-subtitulo {
     font-size: 15px;
   }
+}
+/* Subrayado negro en los subtítulos */
+.main-content h2,
+.main-content h3 {
+  text-decoration: underline;
+  text-decoration-color: #000000;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 6px;
 }
