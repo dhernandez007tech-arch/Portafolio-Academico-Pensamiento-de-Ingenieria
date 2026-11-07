@@ -30,11 +30,11 @@ body {
 
 .site-logo {
   display: block;
-  width: 150px;
-  height: 75px;
+  width: 100px;
+  height: 45px;
   max-width: 100%;
   object-fit: contain;
-  margin: 10px auto;
+  margin: 4px auto;
 }
 
 /* Menú lateral */
