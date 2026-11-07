@@ -8,14 +8,14 @@ nav_order: 3
 
 ## Introducción
 
-En esta actividad se desarrolla una simulación mediante el método de Monte Carlo para analizar diferentes escenarios posibles de crecimiento del ahorro a largo plazo.
-
-El modelo utiliza múltiples simulaciones para representar la incertidumbre de los rendimientos y estimar la probabilidad de alcanzar una meta de ahorro.
+A través de múltiples escenarios aleatorios, el modelo simula la variabilidad de los rendimientos en el tiempo para evaluar la probabilidad de alcanzar la meta financiera. (Puedes ajustar las condiciones editando las variables en la sección del código que se indica).
 
 ## Cuaderno de trabajo
 
 A continuación, se presenta el desarrollo de la simulación en Google Colab (código en Python), con las respectivas explicaciones de su funcionamiento y los resultados de la simulación.
-##1. Visualización directa de la simulación
+
+## 1. Visualización directa de la simulación
+
 <div class="notebook-container">
   <iframe
     src="{{ '/assets/notebooks/Simulacion_Montecarlo.html' | relative_url }}"
@@ -25,6 +25,7 @@ A continuación, se presenta el desarrollo de la simulación en Google Colab (c�
     title="Cuaderno de simulación de Monte Carlo">
   </iframe>
 </div>
+
 ## 2. Código en Google Colab
 
 Abre el cuaderno en Google Colab para experimentar, editar y ejecutar la implementación en Python.
