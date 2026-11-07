@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+
+:root {
+  --link-color: #E00034;
+  --link-color-hover: #b00028;
+}
+
+/* Tipografía general */
+body {
+  font-family: 'Merriweather', serif;
+}
+
+/* Barra lateral roja */
+.side-bar,
+.side-bar .site-header,
+.side-bar .site-nav,
+.side-bar .nav-list {
+  background-color: #E00034 !important;
+}
+
+/* Título y logotipo */
+.site-title {
+  color: #ffffff !important;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 700;
+}
+
+.site-logo {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+}
+
+/* Menú lateral */
+.nav-list .nav-list-link,
+.nav-list .nav-list-link:visited {
+  color: #ffffff !important;
+}
+
+.nav-list .nav-list-link:hover,
+.nav-list .nav-list-item.active > .nav-list-link {
+  background-color: #b00028 !important;
+  color: #ffffff !important;
+}
+
+/* Enlaces */
+.main-content a {
+  color: #E00034;
+}
+
+.main-content a:hover {
+  color: #b00028;
+}
+
+/* Fondo del contenido */
+.main {
+  background-color: #ffffff;
+}
+
+/* Portada institucional */
+.portada {
+  background-color: #7A1735;
+  color: #ffffff;
+  text-align: center;
+  padding: 55px 25px;
+  margin: 20px 0 35px;
+  border-radius: 4px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.portada-logo {
+  display: block;
+  width: 240px;
+  max-width: 80%;
+  height: auto;
+  margin: 0 auto 25px;
+}
+
+.portada-linea {
+  width: 75px;
+  height: 3px;
+  background-color: #C9A45C;
+  margin: 0 auto 25px;
+}
+
+.portada-titulo {
+  color: #ffffff !important;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 36px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  border: none !important;
+  margin-bottom: 12px;
+}
+
+.portada-subtitulo {
+  color: #E8D7C0 !important;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 19px;
+  font-weight: normal;
+  letter-spacing: 3px;
+  margin-bottom: 25px;
+}
+
+.portada-universidad {
+  color: #ffffff;
+  font-size: 21px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+}
+
+.portada-separador {
+  width: 45px;
+  height: 1px;
+  background-color: #C9A45C;
+  margin: 18px auto;
+}
+
+.portada-carrera {
+  color: #ffffff;
+  font-size: 17px;
+  margin-bottom: 0;
+}
+
+@media (max-width: 600px) {
+  .portada {
+    padding: 35px 15px;
+  }
+
+  .portada-titulo {
+    font-size: 27px;
+  }
+
+  .portada-subtitulo {
+    font-size: 15px;
+  }
+}
