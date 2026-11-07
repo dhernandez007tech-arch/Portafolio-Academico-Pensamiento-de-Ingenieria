@@ -47,9 +47,15 @@ Este portafolio está dedicado a la materia de Pensamiento de Ingeniería, donde
 
 [Consultar la Tarea 7](tarea-7)
 
-### Próximos proyectos
 
-En este apartado se incorporarán nuevas actividades y proyectos académicos.
+### Tarea 8. Simulación de Monte Carlo
+
+En esta actividad se desarrolla una implementación del método de simulación de Monte Carlo utilizando Python, con el propósito de calcular y analizar posibles valores futuros de un proceso de inversión destinado al retiro.
+
+Mediante la generación de múltiples escenarios aleatorios, buscamos representar la incertidumbre del comportamiento de los rendimientos a lo largo del tiempo y observar cómo evolucionan los ahorros bajo distintas condiciones (si quieres experimentar, puedes agregar, quitar o modificar variables directamente en la sección indicada del código).
+
+[Consultar la Tarea 8](tarea-8)
+
 
 ---
 
