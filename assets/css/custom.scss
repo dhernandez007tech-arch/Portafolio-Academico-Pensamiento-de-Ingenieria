@@ -1,13 +1,64 @@
+
 ---
 ---
 
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
 
+:root {
+  --link-color: #E00034;
+  --link-color-hover: #b00028;
+}
+
+/* Tipografía */
 body {
   font-family: 'Merriweather', serif;
 }
 
-h1, h2, h3, h4, h5, h6,
+/* Zona superior y menú lateral en rojo */
+.side-bar,
+.side-bar .site-header,
+.side-bar .site-nav,
+.side-bar .nav-list {
+  background-color: #E00034 !important;
+}
+
+/* Título y logotipo */
 .site-title {
-  font-family: 'Merriweather', serif;
+  color: #ffffff !important;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 700;
+}
+
+.site-logo {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+}
+
+/* Enlaces del menú */
+.nav-list .nav-list-link,
+.nav-list .nav-list-link:visited {
+  color: #ffffff !important;
+}
+
+.nav-list .nav-list-link:hover,
+.nav-list .nav-list-item.active > .nav-list-link {
+  background-color: #b00028 !important;
+  color: #ffffff !important;
+}
+
+/* Enlaces del contenido */
+.main-content a {
+  color: #E00034;
+}
+
+.main-content a:hover {
+  color: #b00028;
+}
+
+/* Fondo del contenido */
+.main {
+  background-color: #ffffff;
 }
