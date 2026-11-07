@@ -19,18 +19,22 @@ body {
 }
 
 /* Título y logotipo */
+/* Logotipo de la Universidad en la barra lateral */
 .site-title {
-  color: #ffffff !important;
   display: flex;
   align-items: center;
-  gap: 10px;
+  justify-content: center;
+  color: #ffffff !important;
   font-weight: 700;
 }
 
 .site-logo {
-  width: 42px;
-  height: 42px;
+  display: block;
+  width: 150px;
+  height: 75px;
+  max-width: 100%;
   object-fit: contain;
+  margin: 10px auto;
 }
 
 /* Menú lateral */
@@ -139,10 +143,8 @@ body {
   }
 }
 /* Subrayado negro en los subtítulos */
-.main-content h2,
-.main-content h3 {
-  text-decoration: underline;
-  text-decoration-color: #000000;
-  text-decoration-thickness: 2px;
-  text-underline-offset: 6px;
+/* Mantener sin subrayado los títulos indicados */
+.main-content h3,
+.portada .portada-subtitulo {
+  text-decoration: none !important;
 }
