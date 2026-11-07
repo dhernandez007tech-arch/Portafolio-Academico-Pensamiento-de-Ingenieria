@@ -4,7 +4,7 @@ description: Tareas y proyectos (Pensamiento de Ingeniería)
 remote_theme: just-the-docs/just-the-docs
 
 url: "https://dhernandez007tech-arch.github.io"
-baseurl: "/Tarea-7-Definicion-Problema-IMSS"
+baseurl: "/Portafolio-Academico-Pensamiento-de-Ingenieria"
 
 plugins:
   - jekyll-remote-theme
