@@ -43,7 +43,7 @@ Este portafolio está dedicado a la materia de Pensamiento de Ingeniería, donde
 
 ### Tarea 7. Definición de problemas
 
-En este apartado nos dedicamos al análisis de la problemática actual detrás de las recientes manifestaciones organizadas por los trabajadores del IMSS, examinando sus causas y desmenuzando el problema.
+"Esta investigación fue desarrollada en equipo con Alin Rodríguez; en este apartado analizamos a fondo la problemática actual detrás de las recientes manifestaciones del IMSS, examinando sus causas y desmenuzando el conflicto."
 
 [Consultar la Tarea 7](tarea-7)
 
