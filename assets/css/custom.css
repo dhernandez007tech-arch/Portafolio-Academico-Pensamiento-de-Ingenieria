@@ -43,18 +43,25 @@ body {
   color: #ffffff !important;
 }
 
-/* Efecto de selección compacto en el menú */
+/* Opciones del menú */
 .nav-list .nav-list-link {
   display: inline-block;
   width: auto;
   padding: 8px 14px !important;
   border-radius: 6px;
+  color: #ffffff !important;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-.nav-list .nav-list-link:hover,
+/* Efecto al pasar el cursor */
+.nav-list .nav-list-link:hover {
+  background-color: rgba(255, 255, 255, 0.18) !important;
+  color: #ffffff !important;
+}
+
+/* Pestaña actualmente seleccionada */
 .nav-list .nav-list-item.active > .nav-list-link {
-  background: linear-gradient(90deg, #b00028, #d00035) !important;
+  background: linear-gradient(90deg, #b00028, #e00034) !important;
   color: #ffffff !important;
 }
 /* Enlaces */
