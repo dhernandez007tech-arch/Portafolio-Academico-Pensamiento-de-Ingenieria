@@ -14,8 +14,8 @@ El modelo utiliza múltiples simulaciones para representar la incertidumbre de l
 
 ## Cuaderno de trabajo
 
-A continuación, se presenta el desarrollo de la simulación en Google Colab (código en Python), las explicaciones de su funcionamiento y los resultados de la simulación.
-
+A continuación, se presenta el desarrollo de la simulación en Google Colab (código en Python), con las respectivas explicaciones de su funcionamiento y los resultados de la simulación.
+##1. Visualización directa de la simulación
 <div class="notebook-container">
   <iframe
     src="{{ '/assets/notebooks/Simulacion_Montecarlo.html' | relative_url }}"
@@ -25,3 +25,15 @@ A continuación, se presenta el desarrollo de la simulación en Google Colab (c�
     title="Cuaderno de simulación de Monte Carlo">
   </iframe>
 </div>
+## 2. Código en Google Colab
+
+Abre el cuaderno en Google Colab para experimentar, editar y ejecutar la implementación en Python.
+
+[**Abrir código en Google Colab**](https://colab.research.google.com/drive/1HgCeRr9nPh0mQTQUvuW2eSjko1GcAgWI)
+
+## 3. Repositorio de GitHub de la Tarea 8
+
+Consulta el repositorio que contiene el cuaderno original y los archivos correspondientes a la actividad.
+
+[**Consultar repositorio de la Tarea 8**](https://github.com/dhernandez007tech-arch/Tarea-8-Simulacion-Montecarlo)
+
