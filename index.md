@@ -6,7 +6,7 @@ nav_order: 1
 
 <div style="text-align: center; padding: 35px 15px; background-color: #7A1735; color: white; border-radius: 12px;">
 
-  <img src="{{ '/assets/img/ibero-logo.png' | relative_url }}" alt="Universidad Iberoamericana" style="width: 190px; max-width: 80%; margin-bottom: 20px;">
+<img src="{{ '/assets/img/Universidad-Iberoamericana-logo.png' | relative_url }}" alt="Universidad Iberoamericana" style="width: 240px; max-width: 80%; height: auto; margin-bottom: 20px;">
 
   <h1 style="color: white; border: none;">PORTAFOLIO ACADÉMICO (PENSAMIENTO DE INGENIERIA)</h1>
 
