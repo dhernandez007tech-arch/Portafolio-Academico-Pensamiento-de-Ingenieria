@@ -158,12 +158,16 @@ body {
   text-decoration-thickness: 2px;
   text-underline-offset: 6px;
 }
-.menu-button,
-.menu-button svg,
-.menu-button .icon {
+/* Botón hamburguesa en color blanco */
+#menu-button {
   color: #ffffff !important;
-  fill: #ffffff !important;
+}
+
+#menu-button svg,
+#menu-button svg * {
+  color: #ffffff !important;
   stroke: #ffffff !important;
+  fill: #ffffff !important;
 }
 /* Animación suave al cambiar de página */
 @keyframes aparecerPagina {
