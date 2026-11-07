@@ -15,3 +15,13 @@ El modelo utiliza múltiples simulaciones para representar la incertidumbre de l
 ## Cuaderno de trabajo
 
 A continuación, se presenta el desarrollo de la simulación en Google Colab (código en Python), las explicaciones de su funcionamiento y los resultados de la simulación.
+
+<div class="notebook-container">
+  <iframe
+    src="{{ '/assets/notebooks/Simulacion_Montecarlo.html' | relative_url }}"
+    width="100%"
+    height="1100"
+    style="border: 1px solid #ddd; border-radius: 10px; background: white;"
+    title="Cuaderno de simulación de Monte Carlo">
+  </iframe>
+</div>
