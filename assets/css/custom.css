@@ -43,12 +43,14 @@ body {
   color: #ffffff !important;
 }
 
+/* Efecto de selección y movimiento del menú */
 .nav-list .nav-list-link:hover,
 .nav-list .nav-list-item.active > .nav-list-link {
   background-color: #b00028 !important;
   color: #ffffff !important;
+  border-radius: 6px;
+  transition: background-color 0.25s ease, color 0.25s ease;
 }
-
 /* Enlaces */
 .main-content a {
   color: #E00034;
