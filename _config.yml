@@ -1,0 +1,13 @@
+title: Portafolio académico
+description: Tareas y proyectos (Pensamiento de Ingeniería) 
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://dhernandez007tech-arch.github.io"
+baseurl: "/Tarea-7-Definicion-Problema-IMSS"
+
+plugins:
+  - jekyll-remote-theme
+
+color_scheme: light
+search_enabled: true
+nav_sort: case_insensitive
