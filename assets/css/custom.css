@@ -165,3 +165,26 @@ body {
   fill: #ffffff !important;
   stroke: #ffffff !important;
 }
+/* Animación suave al cambiar de página */
+@keyframes aparecerPagina {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.main-content {
+  animation: aparecerPagina 0.55s ease-out;
+}
+
+/* Respetar la preferencia de movimiento reducido */
+@media (prefers-reduced-motion: reduce) {
+  .main-content {
+    animation: none;
+  }
+}
