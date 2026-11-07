@@ -57,9 +57,9 @@ body {
 /* Efecto blanco transparente: solo la mitad de la barra */
 .nav-list .nav-list-link:hover {
   background: linear-gradient(
-    to left,
-    rgba(255, 255, 255, 0.14) 50%,
-    transparent 50%
+    to right,
+    transparent 50%,
+    rgba(255, 255, 255, 0.18) 50%
   ) !important;
   color: #ffffff !important;
 }
