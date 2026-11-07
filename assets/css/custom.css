@@ -158,3 +158,10 @@ body {
   text-decoration-thickness: 2px;
   text-underline-offset: 6px;
 }
+.menu-button,
+.menu-button svg,
+.menu-button .icon {
+  color: #ffffff !important;
+  fill: #ffffff !important;
+  stroke: #ffffff !important;
+}
