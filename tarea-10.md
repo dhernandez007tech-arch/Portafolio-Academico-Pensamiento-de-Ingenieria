@@ -11,7 +11,7 @@ Documento de definición y análisis de un problema sistémico (la problemática
 
 **El código fuente (documento.tex)** y **la bibliografía (documento.bib)** están en un repositorio aparte, donde también se explica **cómo compilarlos** en Overleaf. (***El repositorio también incluye el documento.pdf***)
 
-- [Consultar el repositorio de la Tarea 10](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX){:target="_blank"}
+1. [Consultar el repositorio de la Tarea 10](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX){:target="_blank"}
 - [Ver directamente `documento.tex`](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX/blob/main/documento.tex){:target="_blank"}
 - [Ver directamente `documento.bib`](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX/blob/main/documento.bib){:target="_blank"}
 
