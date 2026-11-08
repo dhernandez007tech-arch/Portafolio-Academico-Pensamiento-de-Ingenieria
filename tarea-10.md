@@ -7,9 +7,10 @@ nav_order: 5
 
 Documento de definición y análisis de un problema sistémico (la problemática laboral del IMSS), escrito en LaTeX con bibliografía en BibTeX.
 
-Repositorio
+## Repositorio
 
-El código fuente (documento.tex) y la bibliografía (documento.bib) están en un repositorio aparte (también incluye el pdf compilado):
+**El código fuente (documento.tex)** y **la bibliografía (documento.bib)** están en un repositorio aparte ($también$ $incluye$ $el$ $pdf$ $compilado$):
+
 [Ver el repositorio de la Tarea 10 en GitHub](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX)
 
 ## Documento en PDF en LaTeX
