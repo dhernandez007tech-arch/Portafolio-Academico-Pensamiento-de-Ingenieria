@@ -30,7 +30,7 @@ A continuaci처n, se presenta el desarrollo de la simulaci처n en Google Colab (c�
 
 Abre el cuaderno en Google Colab para experimentar, editar y ejecutar la implementaci처n en Python.
 
-[**Abrir c처digo en Google Colab**](https://colab.research.google.com/drive/1HgCeRr9nPh0mQTQUvuW2eSjko1GcAgWI)
+- [**Abrir c처digo en Google Colab**](https://colab.research.google.com/drive/1HgCeRr9nPh0mQTQUvuW2eSjko1GcAgWI)
 
 ## 3. Repositorio de GitHub de la Tarea 8
 
