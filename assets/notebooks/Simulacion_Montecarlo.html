@@ -7794,27 +7794,23 @@ a.anchor-link {
     white-space: normal;
   }
 </style>
-<!-- End of mermaid configuration -->
 
 <style id="portfolio-scroll-fix">
   html,
   body {
     width: 100% !important;
     max-width: 100% !important;
-    margin: 0;
-    overflow-x: auto !important;
-  }
-
-  body {
+    margin: 0 !important;
+    overflow-x: hidden !important;
     box-sizing: border-box;
   }
 
   .jp-Notebook {
-    width: max-content !important;
-    min-width: 100% !important;
-    max-width: none !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    padding: 8px !important;
     box-sizing: border-box;
-    overflow: visible !important;
   }
 
   .jp-Cell,
@@ -7823,16 +7819,28 @@ a.anchor-link {
   .jp-Cell-outputArea,
   .jp-OutputArea,
   .jp-OutputArea-child,
+  .jp-OutputArea-output,
   .jp-MarkdownOutput,
   .jp-RenderedHTMLCommon {
-    max-width: none !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
     box-sizing: border-box;
+  }
+
+  .jp-RenderedHTMLCommon,
+  .jp-RenderedHTMLCommon p {
+    white-space: normal !important;
+    overflow-wrap: break-word;
   }
 
   .jp-InputArea,
   .jp-InputArea-editor,
-  .jp-OutputArea-output,
-  pre {
+  pre,
+  table {
+    max-width: 100% !important;
     overflow-x: auto !important;
   }
 
@@ -7842,8 +7850,10 @@ a.anchor-link {
 
   img,
   svg,
-  canvas {
-    max-width: none !important;
+  canvas,
+  .plotly-graph-div,
+  .js-plotly-plot {
+    max-width: 100% !important;
     height: auto;
   }
 </style>
