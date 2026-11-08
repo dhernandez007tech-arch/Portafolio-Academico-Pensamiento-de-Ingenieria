@@ -25,6 +25,6 @@ https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX
 </div>
 
 ### **Archivos**
-[Descargar PDF]({{ '/tarea-10.pdf' | relative_url }})
+[Descargar PDF]({{ '/Tarea_10__Mi_primer_documento_en_LATEX.pdf' | relative_url }})
 [Descargar documento.tex]({{ '/assets/latex/documento.tex' | relative_url }})
 [Descargar documento.bib]({{ '/assets/latex/documento.bib' | relative_url }})
