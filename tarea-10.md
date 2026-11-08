@@ -3,17 +3,17 @@ title: Tarea 10. Mi primer documento en LaTeX
 nav_order: 5
 ---
 
-# Tarea 10. Mi primer documento en LaTeX
+# $Tarea$ $10$. $Mi$ $primer$ $documento$ $en$ $LaTeX$
 
 Documento de definición y análisis de un problema sistémico (la problemática laboral del IMSS), escrito en LaTeX con bibliografía en BibTeX.
 
-## Repositorio
+## $Repositorio$
 
-**El código fuente (documento.tex)** y **la bibliografía (documento.bib)** están en un repositorio aparte ($también$ $incluye$ $el$ $pdf$ $compilado$):
+**El código fuente (documento.tex)** y **la bibliografía (documento.bib)** están en un repositorio aparte (también incluye el pdf compilado):
 
 [Ver el repositorio de la Tarea 10 en GitHub](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX)
 
-## Documento en PDF en LaTeX
+## $Documento$ $en$ $PDF$ $en$ $LaTeX$
 
 <div style="width: 100%; margin: 20px 0; border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
   <iframe
