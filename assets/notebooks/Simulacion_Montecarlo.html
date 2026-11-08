@@ -5971,10 +5971,11 @@ Note: input and output wrappers have "display: block" propery in print mode.
 }
 
 .jp-CodeCell.jp-mod-outputsScrolled .jp-Cell-outputArea {
-  overflow-y: auto;
-  max-height: 24em;
+  overflow-x: auto;
+  overflow-y: visible;
+  max-height: none;
   margin-left: var(--jp-private-cell-scrolling-output-offset);
-  resize: vertical;
+  resize: none;
 }
 
 .jp-CodeCell.jp-mod-outputsScrolled .jp-Cell-outputArea[style*='height'] {
