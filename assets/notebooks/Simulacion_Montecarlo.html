@@ -7799,34 +7799,52 @@ a.anchor-link {
 <style id="portfolio-scroll-fix">
   html,
   body {
-    overflow: auto !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0;
+    overflow-x: auto !important;
+  }
+
+  body {
+    box-sizing: border-box;
   }
 
   .jp-Notebook {
+    width: max-content !important;
+    min-width: 100% !important;
+    max-width: none !important;
+    box-sizing: border-box;
     overflow: visible !important;
-    width: max-content;
-    min-width: 100%;
   }
 
+  .jp-Cell,
+  .jp-Cell-inputWrapper,
+  .jp-Cell-outputWrapper,
   .jp-Cell-outputArea,
   .jp-OutputArea,
   .jp-OutputArea-child,
   .jp-MarkdownOutput,
   .jp-RenderedHTMLCommon {
-    overflow: visible !important;
     max-width: none !important;
+    box-sizing: border-box;
   }
 
   .jp-InputArea,
   .jp-InputArea-editor,
-  .jp-OutputArea-output {
-    max-width: 100%;
+  .jp-OutputArea-output,
+  pre {
     overflow-x: auto !important;
   }
 
   pre {
     white-space: pre !important;
-    overflow-x: auto !important;
+  }
+
+  img,
+  svg,
+  canvas {
+    max-width: none !important;
+    height: auto;
   }
 </style>
 
