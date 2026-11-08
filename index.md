@@ -48,7 +48,7 @@ Este portafolio está dedicado a la materia de Pensamiento de Ingeniería, donde
 [Consultar la Tarea 7](tarea-7)
 
 
-### Tarea 8. Simulación de Monte Carlo
+### 2. Tarea 8. Simulación de Monte Carlo
 
 "En esta tarea utilizamos el método de Monte Carlo mediante un cuaderno de Google Colab con Python, con el fin de proyectar cómo evoluciona el ahorro enfocado en el retiro a largo plazo."
 
