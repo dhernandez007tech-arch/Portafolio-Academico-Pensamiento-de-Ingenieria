@@ -21,7 +21,7 @@ nav_order: 1
   </div>
 </div>
 
-### **Dan Josué Hernández Pérez**  
+### ***Creador: Dan Josué Hernández Pérez***  
 ### **Mi primera página de Github.**
 Este portafolio está dedicado a la materia de Pensamiento de Ingeniería. Aquí recopilo las tareas, actividades y proyectos que vamos desarrollando a lo largo del curso.
 
