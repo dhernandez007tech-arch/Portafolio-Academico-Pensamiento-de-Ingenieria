@@ -17,12 +17,12 @@ A continuación, se presenta el desarrollo de la simulación en Google Colab (c�
 
 <div class="notebook-container">
   <iframe
-    src="{{ '/assets/notebooks/Simulacion_Montecarlo.html' | relative_url }}"
-    width="100%"
-    height="8000"
-    style="border: 1px solid #ddd; border-radius: 10px; background: white;"
-    title="Cuaderno de simulación de Monte Carlo">
-  </iframe>
+  src="{{ '/assets/notebooks/Simulacion_Montecarlo.html' | relative_url }}"
+  width="100%"
+  height="1800"
+  style="border: none; overflow: auto;"
+  loading="lazy">
+</iframe>
 </div>
 
 ## 2. Código en Google Colab
