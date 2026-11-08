@@ -14,7 +14,7 @@ En este apartado presentamos el desarrollo de la actividad orientada a la defini
 
 <div style="width: 100%; margin: 20px 0; border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
   <iframe
-    src="{{ '/Tarea%207%20Definici%C3%B3n%20de%20problemas.pdf' | relative_url }}"
+    src="{{ '/Tarea%207%20Definici%C3%B3n%20de%20problemas.pdf' | relative_url }}#toolbar=0&navpanes=0"
     title="Tarea 7. Definición de problemas"
     width="100%"
     height="900"
@@ -22,4 +22,3 @@ En este apartado presentamos el desarrollo de la actividad orientada a la defini
     loading="lazy">
   </iframe>
 </div>
-
