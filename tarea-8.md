@@ -10,7 +10,7 @@ nav_order: 3
 
 A través de múltiples escenarios aleatorios, el modelo simula la variabilidad de los rendimientos en el tiempo para evaluar la probabilidad de alcanzar la meta financiera. 
 
-## Desarrollo del codigo 
+## Desarrollo del código 
 
 A continuación, se presenta el desarrollo de la simulación en Google Colab (código en Python), con las respectivas explicaciones de su funcionamiento y los resultados de la simulación.
 
@@ -28,7 +28,7 @@ A continuación, se presenta el desarrollo de la simulación en Google Colab (c�
 
 ## 2. Código en Google Colab
 
-Abre el cuaderno en Google Colab para experimentar, editar y ejecutar la implementación en Python. (Puedes ajustar las condiciones, editando las variables en la sección 2 ).
+Abre el cuaderno en Google Colab para experimentar, editar y ejecutar la implementación en Python. (Puedes ajustar las condiciones, editando las variables en la sección 2 de Parámetros).
 
 
 - [**Abrir código en Google Colab**](https://colab.research.google.com/drive/1HgCeRr9nPh0mQTQUvuW2eSjko1GcAgWI)
