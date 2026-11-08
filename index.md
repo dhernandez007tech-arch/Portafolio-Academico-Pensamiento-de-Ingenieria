@@ -33,12 +33,17 @@ Este portafolio está dedicado a la materia de Pensamiento de Ingeniería. Aquí
 
 [Consultar la Tarea 7](tarea-7)
 
-
 ### 2. Tarea 8. Simulación de Monte Carlo
 
 "En esta tarea utilizamos el método de Monte Carlo mediante un cuaderno de Google Colab con Python, con el fin de proyectar cómo evoluciona el ahorro enfocado en el retiro a largo plazo."
 
 [Consultar la Tarea 8](tarea-8)
+
+### 3. Tarea 10. Mi primer documento en LaTeX
+
+"En esta tarea convertimos a LaTeX el documento de la Tarea 7, donde definimos y analizamos un problema sistémico: la problemática laboral y estructural del IMSS en México. Incluye el código fuente (.tex), la bibliografía en BibTeX (.bib) y el PDF.
+
+[Consultar la Tarea 10](tarea-10)
 
 
 ---
