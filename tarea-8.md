@@ -20,7 +20,7 @@ A continuación, se presenta el desarrollo de la simulación en Google Colab (c�
   <iframe
     src="{{ '/assets/notebooks/Simulacion_Montecarlo.html' | relative_url }}"
     width="100%"
-    height="2200"
+    height="3300"
     style="border: 1px solid #ddd; border-radius: 10px; background: white;"
     title="Cuaderno de simulación de Monte Carlo">
   </iframe>
@@ -36,5 +36,6 @@ Abre el cuaderno en Google Colab para experimentar, editar y ejecutar la impleme
 
 Consulta el repositorio que contiene el cuaderno original y los archivos correspondientes a la actividad.
 
-[**Consultar repositorio de la Tarea 8**](https://github.com/dhernandez007tech-arch/Tarea-8-Simulacion-Montecarlo)
-[**Consultar código fuente en Python**]({{ '/assets/notebooks/Simulacion_Montecarlo.py' | relative_url }})
+Consulta el repositorio que contiene el cuaderno original y los archivos correspondientes a la actividad.
+
+- [**Consultar repositorio de la Tarea 8**](https://github.com/dhernandez007tech-arch/Tarea-8-Simulacion-Montecarlo)
