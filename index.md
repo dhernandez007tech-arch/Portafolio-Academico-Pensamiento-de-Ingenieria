@@ -6,34 +6,21 @@ nav_order: 1
 
 
 <div class="portada">
+  <div class="portada-texto">
+    <p class="portada-kicker">Universidad Iberoamericana · Ciudad de México</p>
+    <h1 class="portada-titulo">PORTAFOLIO ACADÉMICO</h1>
+    <div class="portada-linea"></div>
+    <h2 class="portada-materia">PENSAMIENTO DE INGENIERÍA</h2>
+    <p class="portada-carrera">Licenciatura en Ingeniería en Inteligencia Artificial</p>
+  </div>
 
-  <img
-    src="{{ '/assets/img/Universidad-Iberoamericana-logo.png' | relative_url }}"
-    alt="Universidad Iberoamericana"
-    class="portada-logo"
-  >
-
-  <div class="portada-linea"></div>
-
-  <h1 class="portada-titulo">
-    PORTAFOLIO ACADÉMICO
-  </h1>
-
-  <h2 class="portada-subtitulo">
-    PENSAMIENTO DE INGENIERÍA
-  </h2>
-
-  <p class="portada-universidad">
-    UNIVERSIDAD IBEROAMERICANA
-  </p>
-
-  <div class="portada-separador"></div>
-
-  <p class="portada-carrera">
-    Licenciatura en Ingeniería en Inteligencia Artificial
-  </p>
-
+  <div class="portada-logo">
+    <img
+      src="{{ '/assets/img/Screenshot%202026-11-07%20210351.png' | relative_url }}"
+      alt="Logo de Ingeniería en Inteligencia Artificial, IBERO Ciudad de México">
+  </div>
 </div>
+
 ### **Dan Josué Hernández Pérez**  
 ### *Ingeniería en Inteligencia Artificial*
 
