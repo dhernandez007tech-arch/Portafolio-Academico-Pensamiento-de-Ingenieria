@@ -25,7 +25,7 @@ nav_order: 1
 ### **Mi primera página de Github.**
 Este portafolio está dedicado a la materia de Pensamiento de Ingeniería. Aquí recopilo las tareas, actividades y proyectos que vamos desarrollando a lo largo del curso.
 
-## Contenido
+## **Contenido**
 
 ### 1. Tarea 7. Definición de problemas
 
