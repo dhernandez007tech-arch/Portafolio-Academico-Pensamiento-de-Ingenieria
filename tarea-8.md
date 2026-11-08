@@ -15,14 +15,14 @@ A continuaci처n, se presenta el desarrollo de la simulaci처n en Google Colab (c�
 
 ## 1. Visualizaci처n directa de la simulaci처n
 
-<div class="notebook-container">
+<div style="width: 100%; overflow: auto; border: 1px solid #ddd; border-radius: 8px;">
   <iframe
-  src="{{ '/assets/notebooks/Simulacion_Montecarlo.html' | relative_url }}"
-  width="100%"
-  height="1800"
-  style="border: none; overflow: auto;"
-  loading="lazy">
-</iframe>
+    src="{{ '/assets/notebooks/Simulacion_Montecarlo.html' | relative_url }}"
+    width="100%"
+    height="1800"
+    style="border: none; display: block;"
+    loading="lazy">
+  </iframe>
 </div>
 
 ## 2. C처digo en Google Colab
