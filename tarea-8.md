@@ -37,4 +37,4 @@ Abre el cuaderno en Google Colab para experimentar, editar y ejecutar la impleme
 Consulta el repositorio que contiene el cuaderno original y los archivos correspondientes a la actividad.
 
 [**Consultar repositorio de la Tarea 8**](https://github.com/dhernandez007tech-arch/Tarea-8-Simulacion-Montecarlo)
-
+[**Consultar código fuente en Python**]({{ '/assets/notebooks/Simulacion_Montecarlo.py' | relative_url }})
