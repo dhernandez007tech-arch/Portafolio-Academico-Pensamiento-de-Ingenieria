@@ -22,9 +22,7 @@ nav_order: 1
 </div>
 
 ### **Dan Josué Hernández Pérez**  
-### *Ingeniería en Inteligencia Artificial*
-
-Este portafolio está dedicado a la materia de Pensamiento de Ingeniería, donde iré recopilando las tareas, actividades y proyectos que vamos desarrollando a lo largo del curso.
+Este portafolio está dedicado a la materia de Pensamiento de Ingeniería. Aquí recopilo las tareas, actividades y proyectos que vamos desarrollando a lo largo del curso.
 
 ## Contenido del portafolio
 
