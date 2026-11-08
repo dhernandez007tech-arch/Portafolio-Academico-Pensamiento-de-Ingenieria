@@ -16,9 +16,10 @@ A continuaci처n, se presenta el desarrollo de la simulaci처n en Google Colab (c�
 
 ## 1. Repositorio de GitHub de la Tarea 8
 
-Consulta el repositorio que contiene el c처digo fuente y los archivos correspondientes a la simulaci처n.
+Consulta el c처digo fuente y los archivos de la simulaci처n que se encuentran en un repositorio aparte.
 
-- [**Consultar repositorio de la Tarea 8**](https://github.com/dhernandez007tech-arch/Tarea-8-Simulacion-Montecarlo)
+- [Consultar el repositorio de la Tarea 8](https://github.com/dhernandez007tech-arch/Tarea-8-Simulacion-Montecarlo){:target="_blank"}
+- [Ver directamente el c처digo fuente (`Simulacion_Montecarlo.py`)](https://github.com/dhernandez007tech-arch/Tarea-8-Simulacion-Montecarlo/blob/main/Simulacion_Montecarlo.py){:target="_blank"}
 
 ## 2. C처digo en Google Colab
 
