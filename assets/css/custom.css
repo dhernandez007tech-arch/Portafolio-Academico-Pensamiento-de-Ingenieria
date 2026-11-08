@@ -86,29 +86,31 @@ body {
 
 /* Portada institucional */
 .portada {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
   background-color: #E00034;
   color: #ffffff;
-  text-align: center;
-  padding: 55px 25px;
+  padding: 50px 30px;
   margin: 20px 0 35px;
   border-radius: 4px;
   font-family: "Times New Roman", Times, serif;
 }
 
-.portada-logo {
-  display: block;
-  width: 240px;
-  max-width: 80%;
-  height: auto;
-  margin: 0 auto 25px;
+.portada-texto {
+  flex: 1 1 320px;
+  max-width: 520px;
+  text-align: left;
 }
 
-.portada-linea {
-  width: 240px;
-  max-width: 80%;
-  height: 3px;
-  background-color: #C9A45C;
-  margin: 0 auto 25px;
+.portada-kicker {
+  color: #E8D7C0;
+  font-size: 14px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin: 0 0 18px;
 }
 
 .portada-titulo {
@@ -117,52 +119,73 @@ body {
   font-size: 36px;
   font-weight: bold;
   letter-spacing: 2px;
+  line-height: 1.15;
   border: none !important;
-  margin-bottom: 12px;
+  margin: 0;
 }
 
-.portada-subtitulo {
+.portada-linea {
+  width: 120px;
+  height: 3px;
+  background-color: #C9A45C;
+  margin: 22px 0;
+}
+
+.portada-materia {
   color: #E8D7C0 !important;
   font-family: "Times New Roman", Times, serif;
   font-size: 19px;
   font-weight: normal;
   letter-spacing: 3px;
-  margin-bottom: 25px;
-}
-
-.portada-universidad {
-  color: #ffffff;
-  font-size: 21px;
-  font-weight: bold;
-  letter-spacing: 1px;
-  margin-bottom: 15px;
-}
-
-.portada-separador {
-  width: 240px;
-  max-width: 80%;
-  height: 2px;
-  background-color: #C9A45C;
-  margin: 18px auto;
+  margin: 0 0 14px;
 }
 
 .portada-carrera {
   color: #ffffff;
   font-size: 17px;
-  margin-bottom: 0;
+  margin: 0;
+}
+
+.portada-logo {
+  flex: 0 1 300px;
+  background: #ffffff;
+  border-radius: 50%;
+  padding: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+
+.portada-logo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
 }
 
 @media (max-width: 600px) {
   .portada {
     padding: 35px 15px;
+    gap: 28px;
+  }
+
+  .portada-texto {
+    text-align: center;
+  }
+
+  .portada-linea {
+    margin: 22px auto;
   }
 
   .portada-titulo {
     font-size: 27px;
   }
 
-  .portada-subtitulo {
+  .portada-materia {
     font-size: 15px;
+  }
+
+  .portada-logo {
+    flex-basis: 220px;
+    max-width: 220px;
   }
 }
 /* Subrayado negro en los subtítulos */
