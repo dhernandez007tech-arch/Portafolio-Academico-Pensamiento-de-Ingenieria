@@ -3,19 +3,19 @@ title: Tarea 10. Mi primer documento en LaTeX
 nav_order: 5
 ---
 
-# $Tarea$ $10$. $Mi$ $primer$ $documento$ $en$ $LaTeX$
+# Tarea 10. Mi primer documento en LaTeX
 
 Documento de definición y análisis de un problema sistémico (la problemática laboral del IMSS), escrito en LaTeX con bibliografía en BibTeX.
 
-## $Repositorio$
+## Repositorio de la Tarea 10 
 
-**El código fuente ($documento.tex$)** y **la bibliografía ($documento.bib$)** están en un repositorio aparte, donde también se explica **cómo compilarlos** en $Overleaf$. (También incluye el `documento.pdf`)
+**El código fuente (documento.tex)** y **la bibliografía (documento.bib)** están en un repositorio aparte, donde también se explica **cómo compilarlos** en Overleaf. (***También incluye el documento.pdf***)
 
 [Ver el repositorio de la Tarea 10 en GitHub](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX)
 
 También puedes descargar **el código fuente ($documento.tex$)** y **la bibliografía ($documento.bib$)** directamente.
-1. [Descargar documento.tex]({{ '/assets/latex/documento.tex' | relative_url }})
-2. [Descargar documento.bib]({{ '/assets/latex/documento.bib' | relative_url }})
+1. [Ver documento.tex](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX/blob/main/documento.tex){:target="_blank"}
+2. [Ver documento.bib](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX/blob/main/documento.bib){:target="_blank"}
 
 ## $Documento$ $en$ $PDF$ $en$ $LaTeX$
 
