@@ -13,11 +13,11 @@ Documento de definición y análisis de un problema sistémico (la problemática
 
 [Ver el repositorio de la Tarea 10 en GitHub](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX)
 
-También puedes descargar **el código fuente ($documento.tex$)** y **la bibliografía ($documento.bib$)** directamente.
+También puedes visualizar **el código fuente (documento.tex)** y **la bibliografía (documento.bib)** directamente en GitHub:
 1. [Ver documento.tex](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX/blob/main/documento.tex){:target="_blank"}
 2. [Ver documento.bib](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX/blob/main/documento.bib){:target="_blank"}
 
-## $Documento$ $en$ $PDF$ $en$ $LaTeX$
+## Visualización del documento en PDF en LaTeX
 
 <div style="width: 100%; margin: 20px 0; border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
   <iframe
