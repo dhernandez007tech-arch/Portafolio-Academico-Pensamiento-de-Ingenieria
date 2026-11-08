@@ -9,13 +9,11 @@ Documento de definición y análisis de un problema sistémico (la problemática
 
 ## Repositorio de la Tarea 10 
 
-**El código fuente (documento.tex)** y **la bibliografía (documento.bib)** están en un repositorio aparte, donde también se explica **cómo compilarlos** en Overleaf. (***También incluye el documento.pdf***)
+**El código fuente (documento.tex)** y **la bibliografía (documento.bib)** están en un repositorio aparte, donde también se explica **cómo compilarlos** en Overleaf. (***El repositorio también incluye el documento.pdf***)
 
-[Ver el repositorio de la Tarea 10 en GitHub](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX)
-
-También puedes visualizar **el código fuente (documento.tex)** y **la bibliografía (documento.bib)** directamente en GitHub:
-1. [Ver documento.tex](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX/blob/main/documento.tex){:target="_blank"}
-2. [Ver documento.bib](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX/blob/main/documento.bib){:target="_blank"}
+- [Consultar el repositorio de la Tarea 10](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX){:target="_blank"}
+- [Ver directamente `documento.tex`](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX/blob/main/documento.tex){:target="_blank"}
+- [Ver directamente `documento.bib`](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX/blob/main/documento.bib){:target="_blank"}
 
 ## Visualización del documento en PDF en LaTeX
 
