@@ -9,9 +9,13 @@ Documento de definición y análisis de un problema sistémico (la problemática
 
 ## $Repositorio$
 
-**El código fuente ($documento.tex$)** y **la bibliografía ($documento.bib$)** están en un repositorio aparte (***también incluye el*** $documento.pdf$):
+**El código fuente ($documento.tex$)** y **la bibliografía ($documento.bib$)** están en un repositorio aparte, donde también se explica cómo compilarlos en $Overleaf$. (También incluye el `documento.pdf`)
 
 [Ver el repositorio de la Tarea 10 en GitHub](https://github.com/dhernandez007tech-arch/Tarea_10_Mi_primer_documento_en_LaTeX)
+
+También puedes descargar **El código fuente ($documento.tex$)** y **la bibliografía ($documento.bib$)**.
+1. [Descargar documento.tex]({{ '/assets/latex/documento.tex' | relative_url }})
+2. [Descargar documento.bib]({{ '/assets/latex/documento.bib' | relative_url }})
 
 ## $Documento$ $en$ $PDF$ $en$ $LaTeX$
 
@@ -26,7 +30,3 @@ Documento de definición y análisis de un problema sistémico (la problemática
   </iframe>
 </div>
 
-### **Archivos**
-[Descargar PDF]({{ '/Tarea_10__Mi_primer_documento_en_LATEX.pdf' | relative_url }})
-[Descargar documento.tex]({{ '/assets/latex/documento.tex' | relative_url }})
-[Descargar documento.bib]({{ '/assets/latex/documento.bib' | relative_url }})
