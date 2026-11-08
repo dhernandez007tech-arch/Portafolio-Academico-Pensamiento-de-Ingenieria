@@ -12,8 +12,6 @@ En este apartado presentamos el desarrollo de la actividad orientada a la defini
 
 ## Documento de la actividad
 
-Puedes consultar el documento completo directamente desde esta página. También puedes abrirlo o descargarlo mediante el enlace que aparece debajo del visor.
-
 <div style="width: 100%; margin: 20px 0; border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
   <iframe
     src="{{ '/Tarea%207%20Definici%C3%B3n%20de%20problemas.pdf' | relative_url }}"
@@ -25,4 +23,3 @@ Puedes consultar el documento completo directamente desde esta página. También
   </iframe>
 </div>
 
-[Consultar Tarea 7. Definición de problemas (PDF)](Tarea%207%20Definición%20de%20problemas.pdf)
