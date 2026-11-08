@@ -19,7 +19,7 @@ A continuación, se presenta el desarrollo de la simulación en Google Colab (c�
   <iframe
     src="{{ '/assets/notebooks/Simulacion_Montecarlo.html' | relative_url }}"
     width="100%"
-    height="5000"
+    height="8000"
     style="border: 1px solid #ddd; border-radius: 10px; background: white;"
     title="Cuaderno de simulación de Monte Carlo">
   </iframe>
