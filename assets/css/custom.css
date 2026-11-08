@@ -223,12 +223,12 @@ body {
 /* Ajustar el ancho de la barra lateral */
 @media (min-width: 800px) {
   .side-bar {
-    width: 230px !important;
-    min-width: 230px !important;
+    width: 240px !important;
+    min-width: 240px !important;
   }
 
   .main {
-    margin-left: 230px !important;
+    margin-left: 240px !important;
   }
 }
 
