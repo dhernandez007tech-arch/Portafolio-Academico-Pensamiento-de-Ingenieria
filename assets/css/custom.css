@@ -220,30 +220,33 @@ body {
   }
 }
 
-/* Ajustar el ancho de la barra lateral */
-@media (min-width: 800px) {
-  .side-bar {
-    width: 240px !important;
-    min-width: 240px !important;
-  }
-
-  .main {
-    margin-left: 240px !important;
-  }
-}
-
-/* Limitar el ancho de las visualizaciones */
+/* Que el notebook nunca sea más ancho que su caja */
 .jp-Notebook {
-  max-width: 100% !important;
-  width: 100% !important;
+  max-width: 100%;
   box-sizing: border-box;
 }
 
-.jp-Cell-outputWrapper,
-.jp-Cell-outputArea,
-.jp-OutputArea,
-.jp-OutputArea-child {
-  max-width: 100% !important;
-  box-sizing: border-box;
-  overflow-x: auto !important;
+/* Que el texto se acomode en varias líneas en vez de cortarse */
+.jp-RenderedHTMLCommon,
+.jp-RenderedHTMLCommon p,
+.jp-RenderedHTMLCommon li,
+.jp-RenderedMarkdown {
+  white-space: normal !important;
+  overflow-wrap: break-word;
+  max-width: 100%;
+}
+
+/* Tablas, código e imágenes: que se ajusten sin romper la página */
+.jp-RenderedHTMLCommon pre,
+.jp-OutputArea-output pre,
+table {
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+.jp-RenderedHTMLCommon img,
+.jp-OutputArea-output img,
+svg {
+  max-width: 100%;
+  height: auto;
 }
