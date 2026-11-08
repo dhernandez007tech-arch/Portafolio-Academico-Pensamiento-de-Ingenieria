@@ -7794,7 +7794,43 @@ a.anchor-link {
     white-space: normal;
   }
 </style>
-<!-- End of mermaid configuration --></head>
+<!-- End of mermaid configuration -->
+
+<style id="portfolio-scroll-fix">
+  html,
+  body {
+    overflow: auto !important;
+  }
+
+  .jp-Notebook {
+    overflow: visible !important;
+    width: max-content;
+    min-width: 100%;
+  }
+
+  .jp-Cell-outputArea,
+  .jp-OutputArea,
+  .jp-OutputArea-child,
+  .jp-MarkdownOutput,
+  .jp-RenderedHTMLCommon {
+    overflow: visible !important;
+    max-width: none !important;
+  }
+
+  .jp-InputArea,
+  .jp-InputArea-editor,
+  .jp-OutputArea-output {
+    max-width: 100%;
+    overflow-x: auto !important;
+  }
+
+  pre {
+    white-space: pre !important;
+    overflow-x: auto !important;
+  }
+</style>
+
+</head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 <main>
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
