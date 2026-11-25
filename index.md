@@ -47,14 +47,4 @@ Este portafolio está dedicado a la materia de Pensamiento de Ingeniería. Aquí
 
 ---
 
-# Matemáticas Discretas
-En este apartado encontrarás las actividades, prácticas y proyectos desarrollados durante la materia de Matemáticas Discretas, utilizando Google Colab como entorno de programación y experimentación.
-
-## Puedes consultar el primer proyecto aquí: 
-### Grafos del Metro CDMX
-
-En este proyecto aplicamos los conceptos de teoría de grafos para representar la red del Metro de la Ciudad de México mediante Python y NetworkX. Incluye la visualización de la Línea 3 y de la red completa del Metro, así como el código fuente y el notebook desarrollado en Google Colab.
-
-[Grafos del Metro CDMX](grafos-metro-cdmx).
-
 *Universidad Iberoamericana - Ingeniería en Inteligencia Artificial*
