@@ -13,7 +13,7 @@ El proyecto contempla tanto una línea específica del Metro como la representac
 
 ## 2. Objetivo
 
-Aplicar los conceptos de teoría de grafos para representar y analizar la estructura de la red del Metro de la Ciudad de México, identificando las estaciones, conexiones y correspondencias entre líneas.
+Aplicar los conceptos de la teoría de grafos para representar y analizar la estructura de la red del Metro de la Ciudad de México, identificando las estaciones, las conexiones y las correspondencias entre líneas.
 
 ## Herramientas utilizadas
 
@@ -31,10 +31,11 @@ Esta representación muestra las estaciones y conexiones correspondientes a la L
 ### Red completa del Metro CDMX
 
 En esta representación se muestra la estructura general de la red del Metro, incluyendo sus distintas líneas y conexiones.
+![Red completa del Metro CDMX](assets/img/red_metro.png)
 
 ## Repositorio del proyecto
 
-Consulta el código fuente y los archivos del proyecto que se encuentran en un repositorio aparte.
+Consulta el código fuente y los archivos del proyecto en un repositorio aparte.
 
 - [Consultar el repositorio del proyecto](https://github.com/dhernandez007tech-arch/Grafos-metro-CDMX-Mat.Discretas){:target="_blank"}
 - [Abrir directamente el notebook en Google Colab](https://colab.research.google.com/drive/1S5vljgVhUu6Wg2yJKitBaVvCpqvCKdmj?usp=sharing){:target="_blank"}
