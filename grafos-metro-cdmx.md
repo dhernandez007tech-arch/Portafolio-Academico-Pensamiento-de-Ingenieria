@@ -42,5 +42,5 @@ Consulta el código fuente y los archivos del proyecto en un repositorio aparte.
 
 ## 4. Visualización directa del proyecto
 
-<iframe src="{{ '/assets/notebooks/Grafos_Metro_CDMX.html' | relative_url }}" width="100%" height="1800" style="border: none; display: block;" loading="lazy"></iframe>
+<iframe src="{{ '/assets/notebooks/Grafos_de_la_linea_del_metro (1).html' | relative_url }}" width="100%" height="1800" style="border: none; display: block;" loading="lazy"></iframe>
 
