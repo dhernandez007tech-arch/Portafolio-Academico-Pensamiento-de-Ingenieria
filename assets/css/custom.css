@@ -307,3 +307,23 @@ svg {
     max-width: none !important;
   }
 }
+/* ===== Sección "MATEMÁTICAS DISCRETAS": solo título, no abre página ===== */
+.nav-list-link[href*="matematicas-discretas"] {
+  pointer-events: none;      /* no responde al clic ni al hover */
+  cursor: default;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  background: none !important;   /* sin degradado cuando estás en una página hija */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 0;
+}
+
+/* Ocultar la flechita de expandir */
+.nav-list-item:has(> .nav-list-link[href*="matematicas-discretas"]) > .nav-list-expander {
+  display: none;
+}
+
+/* Mantener siempre visibles las páginas de abajo */
+.nav-list-item:has(> .nav-list-link[href*="matematicas-discretas"]) > .nav-list {
+  display: block;
+}
