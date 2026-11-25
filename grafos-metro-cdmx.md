@@ -40,3 +40,7 @@ Consulta el código fuente y los archivos del proyecto en un repositorio aparte.
 - [Consultar el repositorio del proyecto](https://github.com/dhernandez007tech-arch/Grafos-metro-CDMX-Mat.Discretas){:target="_blank"}
 - [Abrir directamente el notebook en Google Colab](https://colab.research.google.com/drive/1S5vljgVhUu6Wg2yJKitBaVvCpqvCKdmj?usp=sharing){:target="_blank"}
 
+## 4. Visualización directa del proyecto
+
+<iframe src="{{ '/assets/notebooks/Grafos_Metro_CDMX.html' | relative_url }}" width="100%" height="1800" style="border: none; display: block;" loading="lazy"></iframe>
+
