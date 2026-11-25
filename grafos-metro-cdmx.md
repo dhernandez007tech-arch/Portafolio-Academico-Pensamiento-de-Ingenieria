@@ -1,6 +1,6 @@
 ---
 title: Grafos del Metro CDMX
-parent: Matemáticas Discretas
+parent: MATEMÁTICAS DISCRETAS
 nav_order: 1
 ---
 
