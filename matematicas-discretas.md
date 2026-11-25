@@ -1,11 +1,13 @@
 ---
 title: MATEMÁTICAS DISCRETAS
-nav_order: 6
+nav_order: 20
 has_children: true
 ---
 
 # Matemáticas Discretas
 En este apartado encontrarás las actividades, prácticas y proyectos desarrollados durante la materia de Matemáticas Discretas, utilizando Google Colab como entorno de programación y experimentación.
+
+Contenido 
 
 ### Grafos del Metro CDMX
 
