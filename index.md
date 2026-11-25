@@ -45,7 +45,10 @@ Este portafolio está dedicado a la materia de Pensamiento de Ingeniería. Aquí
 
 [Consultar la Tarea 10](tarea-10)
 
+### 4. Matemáticas Discretas. Grafos del Metro CDMX
+"En este proyecto aplicamos los conceptos de teoría de grafos para representar la red del Metro de la Ciudad de México mediante Python y NetworkX. Incluye la visualización de la Línea 3 y de la red completa del Metro, así como el código fuente y el notebook desarrollado en Google Colab."
 
+- [Matemáticas Discretas](matematicas-discretas)
 ---
 
 *Universidad Iberoamericana - Ingeniería en Inteligencia Artificial*
