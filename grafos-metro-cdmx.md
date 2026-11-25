@@ -4,7 +4,7 @@ parent: MATEMÁTICAS DISCRETAS
 nav_order: 1
 ---
 
-# Grafos del Metro de la Ciudad de México
+# 1. Grafos del Metro de la Ciudad de México
 ## Descripción del proyecto
 
 En este proyecto se representa la red del Sistema de Transporte Colectivo Metro de la Ciudad de México mediante la teoría de grafos. Se utiliza Python y la biblioteca NetworkX para modelar las estaciones y sus conexiones.
